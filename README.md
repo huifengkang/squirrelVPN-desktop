@@ -13,6 +13,6 @@ https://github.com/jessicaisgood/squirrelVPN-desktop/blob/master/SquirrelVPN-1.0
 
 ### Android ###
 
-https://github.com/jessicaisgood/squirrelVPN-desktop/blob/master/squirrel-release-1.0.0-87.apk?raw=true
+https://github.com/jessicaisgood/squirrelVPN-desktop/blob/master/squirrel-release-1.0.0-93.apk?raw=true
 
 
