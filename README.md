@@ -7,6 +7,9 @@ https://github.com/jessicaisgood/squirrelVPN-desktop/blob/master/SquirrelVPN-1.0
 
 
 ### Windows 7/10 (Only 64 bit) ###
+Latest version:
+https://github.com/jessicaisgood/squirrelVPN-desktop/blob/master/SquirrelVPN-1.0.0-10-x64-release.exe?raw=true
+Old versions:
 https://github.com/jessicaisgood/squirrelVPN-desktop/blob/master/SquirrelVPN-1.0.0-9-x64-release.exe?raw=true
 
 
