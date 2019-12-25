@@ -1,4 +1,4 @@
-# [Desktop]SquirrelVPN-Download
+# SquirrelVPN-Download (Desktop)
 Please download the latest versions for MacOS and Windows
 
 ### MacOS 10.14+ ###
@@ -18,7 +18,7 @@ https://github.com/jessicaisgood/squirrelVPN-desktop/blob/master/SquirrelVPN-1.0
 
 
 
-# [Mobile]SquirrelVPN-Download
+# SquirrelVPN-Download (Mobile)
 Please download the latest versions for Android and iOS (iPhone/iPad)
 
 
