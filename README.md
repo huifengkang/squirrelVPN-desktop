@@ -30,5 +30,7 @@ https://github.com/jessicaisgood/squirrelVPN-desktop/blob/master/squirrel-releas
 ### iOS ###
 http://www.opensquirrel.com/ios.html
 
+### 中文使用说明 ###
+http://www.opensquirrel.com/instructions.html
 
 
