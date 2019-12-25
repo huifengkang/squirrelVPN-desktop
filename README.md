@@ -18,6 +18,7 @@ https://github.com/jessicaisgood/squirrelVPN-desktop/blob/master/SquirrelVPN-1.0
 
 
 
+
 # SquirrelVPN-Download (Mobile)
 Please download the latest versions for Android and iOS (iPhone/iPad)
 
