@@ -28,9 +28,9 @@ Please download the latest versions for Android and iOS (iPhone/iPad)
 https://github.com/jessicaisgood/squirrelVPN-desktop/blob/master/squirrel-release-1.0.0-93.apk?raw=true
 
 ### iOS ###
-http://www.opensquirrel.com/ios.html
+http://www.getsquirrel.net/ios.html
 
 ### 中文使用说明 ###
-http://www.opensquirrel.com/instructions.html
+http://www.getsquirrel.net/instructions.html
 
 
